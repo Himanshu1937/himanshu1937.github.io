@@ -389,6 +389,7 @@ header h2 a{
     margin: 30px;
     margin-bottom: 150px;
     fill: white;
+    cursor: pointer;
 }
 
 .background-image img{

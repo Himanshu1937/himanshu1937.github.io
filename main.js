@@ -3,3 +3,6 @@ const scroll = new LocomotiveScroll({
     smooth: true
 });
 
+const scrolltowork = () => {
+    scroll.scrollTo(document.querySelector('#my-projects'))
+}
